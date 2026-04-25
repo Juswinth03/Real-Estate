@@ -1,0 +1,4 @@
+USERS_COLLECTION = "users"
+PROPERTIES_COLLECTION = "properties"
+PROJECTS_COLLECTION = "projects"
+REVIEWS_COLLECTION = "reviews"
